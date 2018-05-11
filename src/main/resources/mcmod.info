@@ -1,0 +1,16 @@
+[
+{
+  "modid": "thaumicrebirth",
+  "name": "Thaumic Rebirth",
+  "description": "A Thaumcraft addon designed to combine new ideas, with classic thaumaturgical concepts from earlier versions of Thaumcraft.",
+  "version": "0.0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SiFire_"],
+  "credits": "Azanor for creating Thaumcraft, allowing me to make this addon",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
