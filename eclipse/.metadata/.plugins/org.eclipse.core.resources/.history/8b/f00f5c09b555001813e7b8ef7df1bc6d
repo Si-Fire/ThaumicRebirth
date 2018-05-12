@@ -1,0 +1,14 @@
+package sifire.sifire.thaumicrebirth.util.handlers;
+
+import net.minecraftforge.fml.common.Mod.EventBusSubscriber;
+import sifire.sifire.thaumicrebirth.init.ModItems;
+
+@EventBusSubscriber
+public class RegistryHandler 
+{
+	@SubscribeEvent
+	public static void onItemRegistry(RegistryEvent.Register<Item> event)
+	{
+		event.getRegistry().registerAll(ModItems.ITEMS.toArray(new Item[0]));
+	}
+}

@@ -1,0 +1,25 @@
+package sifire.sifire.thaumicrebirth.items;
+
+import net.minecraft.creativetab.CreativeTabs;
+import net.minecraft.item.Item;
+import sifire.sifire.thaumicrebirth.Main;
+import sifire.sifire.thaumicrebirth.init.ModItems;
+import sifire.sifire.thaumicrebirth.util.IHasModel;
+
+public class ItemBase extends Item implements IHasModel {
+
+	public ItemBase(String name)
+	{
+		setUnlocalizedName(name);
+		setRegistryName(name);
+		setCreativeTab(CreativeTabs.MISC);
+		
+		ModItems.ITEMS.add(this);
+	}
+	
+	@Override
+	public void registerModels() {
+		Main.proxy.registerItemRenderer(this, 0, "inventory");
+	}
+
+}

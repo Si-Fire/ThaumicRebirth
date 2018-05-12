@@ -9,4 +9,18 @@
 <fullyQualifiedTypeName name="net.minecraftforge.fml.common.Mod.EventHandler"/>
 <fullyQualifiedTypeName name="net.minecraftforge.fml.common.event.FMLInitializationEvent"/>
 <fullyQualifiedTypeName name="net.minecraftforge.fml.common.event.FMLPostInitializationEvent"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="net.minecraft.creativetab.CreativeTabs"/>
+<fullyQualifiedTypeName name="sifire.sifire.thaumicrebirth.items.ItemBase"/>
+<fullyQualifiedTypeName name="sifire.sifire.thaumicrebirth.Main"/>
+<fullyQualifiedTypeName name="net.minecraftforge.client.model.ModelLoader"/>
+<fullyQualifiedTypeName name="net.minecraft.client.renderer.block.model.ModelResourceLocation"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.Mod.EventBusSubscriber"/>
+<fullyQualifiedTypeName name="sifire.sifire.thaumicrebirth.init.ModItems"/>
+<fullyQualifiedTypeName name="net.minecraftforge.event.RegistryEvent"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="net.minecraftforge.fml.common.eventhandler.SubscribeEvent"/>
+<fullyQualifiedTypeName name="net.minecraftforge.client.event.ModelRegistryEvent"/>
+<fullyQualifiedTypeName name="sifire.sifire.thaumicrebirth.util.IHasModel"/>
 </qualifiedTypeNameHistroy>

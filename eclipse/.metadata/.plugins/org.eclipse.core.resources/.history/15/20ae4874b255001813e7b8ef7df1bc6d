@@ -1,0 +1,14 @@
+package sifire.sifire.thaumicrebirth.items;
+
+import net.minecraft.item.Item;
+import sifire.sifire.thaumicrebirth.util.IHasModel;
+
+public class ItemBase extends Item implements IHasModel {
+
+	@Override
+	public void registerModels() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

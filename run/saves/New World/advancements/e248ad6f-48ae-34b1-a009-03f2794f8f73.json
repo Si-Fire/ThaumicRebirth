@@ -1,0 +1,10 @@
+{
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "birch_forest": "2018-05-12 18:01:23 +1000",
+      "plains": "2018-05-12 17:57:45 +1000",
+      "river": "2018-05-12 18:00:57 +1000"
+    },
+    "done": false
+  }
+}
